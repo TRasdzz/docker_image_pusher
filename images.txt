@@ -6,7 +6,8 @@
 #sonarqube:10-community
 #sonarqube:9.9-community
 #sonarqube:8.9-community
-sonarqube:9.2-community
+#sonarqube:9.2-community
+ubuntu:22.04
 #nginx:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
