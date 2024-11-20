@@ -11,7 +11,8 @@
 #nginx:latest
 #rust:1.81.0
 #sonarsource/sonar-scanner-cli:11.1
-node:20-bookworm-slim
+#node:20-bookworm-slim
+python:3.10-slim
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 nginx:latest
