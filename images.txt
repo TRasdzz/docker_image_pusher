@@ -8,12 +8,13 @@
 #sonarqube:8.9-community
 #sonarqube:9.2-community
 #ubuntu:22.04
+ubuntu:24.04
 #nginx:latest
 #rust:1.81.0
 #sonarsource/sonar-scanner-cli:11.1
 #node:20-bookworm-slim
 #python:3.10-slim
-maven:3.9.9-amazoncorretto-17-debian
+#maven:3.9.9-amazoncorretto-17-debian
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 nginx:latest
