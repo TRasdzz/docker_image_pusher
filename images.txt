@@ -14,7 +14,8 @@
 #sonarsource/sonar-scanner-cli:11.1
 #node:20-bookworm-slim
 #python:3.10-slim
-alpine:3.14
+#alpine:3.14
+sonatype/nexus3:latest
 #maven:3.9.9-amazoncorretto-17-debian
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
