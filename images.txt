@@ -13,6 +13,7 @@
 #rust:1.81.0
 #sonarsource/sonar-scanner-cli:11.1
 #node:20-bookworm-slim
+
 php:7.4.5-cli-alpine
 #python:3.10-slim
 #alpine:3.14
@@ -23,4 +24,3 @@ php:7.4.5-cli-alpine
 #--platform=linux/arm64 nginx:latest
 #--platform=linux/arm64 ubuntu:24.04
 #--platform=linux/arm64 redis:6
-
