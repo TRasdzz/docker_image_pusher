@@ -13,7 +13,7 @@
 #rust:1.81.0
 #sonarsource/sonar-scanner-cli:11.1
 #node:20-bookworm-slim
-maven:3.8.5-openjdk-17
+#maven:3.8.5-openjdk-17
 #php:7.4.5-cli-alpine
 #python:3.10-slim
 #alpine:3.14
