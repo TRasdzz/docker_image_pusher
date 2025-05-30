@@ -26,4 +26,4 @@
 #--platform=linux/arm64 redis:6
 #jenkins/jenkins:lts
 
-go:go-1.19.5-alpine3.13-1
+gcc:latest
