@@ -9,7 +9,7 @@
 #sonarqube:9.2-community
 #ubuntu:22.04
 #ubuntu:24.04
-#nginx:latest
+nginx:latest
 #rust:1.81.0
 #sonarsource/sonar-scanner-cli:11.1
 #node:20-bookworm-slim
@@ -26,4 +26,4 @@
 #--platform=linux/arm64 redis:6
 #jenkins/jenkins:lts
 
-gcc:latest
+#gcc:latest
