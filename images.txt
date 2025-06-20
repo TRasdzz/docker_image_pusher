@@ -10,7 +10,7 @@
 #ubuntu:22.04
 #ubuntu:24.04
 nginx:latest
-#rust:1.81.0
+rust:1.81.0
 #sonarsource/sonar-scanner-cli:11.1
 #node:20-bookworm-slim
 #maven:3.8.5-openjdk-17
