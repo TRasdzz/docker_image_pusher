@@ -9,8 +9,8 @@
 #sonarqube:9.2-community
 #ubuntu:22.04
 #ubuntu:24.04
-nginx:latest
-rust:1.81.0
+#nginx:latest
+#rust:1.81.0
 #sonarsource/sonar-scanner-cli:11.1
 #node:20-bookworm-slim
 #maven:3.8.5-openjdk-17
@@ -25,5 +25,5 @@ rust:1.81.0
 #--platform=linux/arm64 ubuntu:24.04
 #--platform=linux/arm64 redis:6
 #jenkins/jenkins:lts
-
+golang:1.24.3-alpine3.21
 #gcc:latest
