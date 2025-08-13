@@ -14,7 +14,8 @@
 #sonarsource/sonar-scanner-cli:11.1
 #node:20-bookworm-slim
 #maven:3.8.5-openjdk-17
-gitlab/gitlab-jh:17.4.1-jh.0
+#gitlab/gitlab-jh:17.4.1-jh.0
+registry.gitlab.cn/omnibus/gitlab-jh:17.4.1
 #php:7.4.5-cli-alpine
 #python:3.10-slim
 #alpine:3.14
