@@ -29,4 +29,4 @@
 #jenkins/jenkins:lts
 #golang:1.24.3-alpine3.21
 #gcc:latest
-docker.io/openjdk:21
+docker.io/openjdk:21-ea-oracle
