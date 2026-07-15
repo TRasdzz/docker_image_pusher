@@ -1,4 +1,4 @@
-#支持私库
+支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #jenkins/jenkins:2.452.2-jdk17
 #xhofe/alist:latest
@@ -29,4 +29,5 @@
 #jenkins/jenkins:lts
 #golang:1.24.3-alpine3.21
 #gcc:latest
-docker.io/openjdk:21-ea-oracle
+#docker.io/openjdk:21-ea-oracle
+maven:3.9.7-amazoncorretto-21
